@@ -1,0 +1,41 @@
+{
+  "name": "expo-playcore-in-app-update",
+  "version": "0.0.1",
+  "description": "Expo module for Android in-app updates using Play Core API",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "expo-in-app-update",
+    "ExpoInAppUpdate"
+  ],
+  "repository": "https://github.com/yasirarafath-muvnw/expo-in-app-update",
+  "bugs": {
+    "url": "https://github.com/yasirarafath-muvnw/expo-in-app-update/issues"
+  },
+  "author": "Yasir Arafath <yasir.arafath.munvw@gmail.com> (https://github.com/yasirarafath-muvnw)",
+  "license": "MIT",
+  "homepage": "https://github.com/yasirarafath-muvnw/expo-in-app-update#readme",
+  "devDependencies": {
+    "@types/react": "~19.1.1",
+    "expo-module-scripts": "^55.0.2",
+    "expo": "^55.0.8",
+    "react-native": "0.82.1"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  },
+  "files": [
+    "build",
+    "android",
+    "expo-module.config.json"
+  ],
+  "packageManager": "yarn@1.22.22"
+}
