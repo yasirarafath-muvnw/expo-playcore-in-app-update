@@ -1,6 +1,6 @@
 {
   "name": "expo-playcore-in-app-update",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Expo module for Android in-app updates using Play Core API",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -41,7 +41,8 @@
     "build",
     "android",
     "expo-module.config.json",
-    "README.md"
+    "README.md",
+    "assets"
   ],
   "packageManager": "yarn@1.22.22"
 }
