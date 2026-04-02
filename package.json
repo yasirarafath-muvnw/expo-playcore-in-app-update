@@ -18,14 +18,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yasirarafath-muvnw/expo-playcore-in-app-update.git"
+    "url": "git+https://github.com/codewithyasirarafath/expo-playcore-in-app-update.git"
   },
   "bugs": {
-    "url": "https://github.com/yasirarafath-muvnw/expo-playcore-in-app-update/issues"
+    "url": "https://github.com/codewithyasirarafath/expo-playcore-in-app-update/issues"
   },
-  "author": "Yasir Arafath <yasir.arafath.munvw@gmail.com> (https://github.com/yasirarafath-muvnw)",
+  "author": "Yasir Arafath <yasir.arafath.munvw@gmail.com> (https://github.com/codewithyasirarafath)",
   "license": "MIT",
-  "homepage": "https://github.com/yasirarafath-muvnw/expo-playcore-in-app-update#readme",
+  "homepage": "https://github.com/codewithyasirarafath/expo-playcore-in-app-update#readme",
   "devDependencies": {
     "@types/react": "~19.1.1",
     "expo-module-scripts": "^55.0.2",
