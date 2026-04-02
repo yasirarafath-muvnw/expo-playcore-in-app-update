@@ -38,9 +38,7 @@ useEffect(() => {
 
 ### Example: Immediate Update Popup
 
-![Update Popup](assets/immediate_flow.png)
-
-![Update Flow](assets/immediate_flow_1.png)
+![Immediate Update Flow](assets/immediate_flow.png)
 
 * Figure: **An example of an immediate update flow.**
 
